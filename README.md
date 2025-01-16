@@ -1,13 +1,8 @@
 # Jogo da Velha theme galaxy
 
-Este é um simples jogo da velha criado com HTML, CSS e JavaScript, com um design bonito de fundo de galáxia.
+Este é um simples jogo da velha criado com Dart, HTML, CSS e JavaScript, com um design bonito de fundo de galáxia.
 
-## Captura de Tela
+Tem os emojis de lua 🌙 e estrela ⭐, para sair do tradicional e ficar mais dinâmico.
 
-![Captura de Tela do Jogo da Velha]((https://br.pinterest.com/pin/158189005657521403/))
+## Espero que goste ;)
 
-## Como Usar
-
-1. Clone o repositório ou baixe os arquivos.
-   ```bash
-   git clone https://github.com/RenataRayzel/jogo-da-velha-galactico.git
